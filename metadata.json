@@ -1,0 +1,5 @@
+{
+  "name": "MathCosmos",
+  "description": "An interactive 3D particle visualization system showcasing 20 classic mathematical structures and chaos theory attractors with high-performance rendering.",
+  "requestFramePermissions": []
+}
